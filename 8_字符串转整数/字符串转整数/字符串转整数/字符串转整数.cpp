@@ -13,7 +13,7 @@ public:
 				start = true;
 				continue;
 			}
-			if (str[i] == '+' && start == false){
+			if (str[i] == '+' && start == false)
 				flag = 1;
 				start = true;
 				continue;
